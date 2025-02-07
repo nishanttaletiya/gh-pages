@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a178e28c6f6381c9.js",
+      "static/chunks/4bd1b696-a8e650d2b69d8d6c.js",
+      "static/chunks/517-a2a66328b3cff895.js",
+      "static/chunks/main-app-e6dccc08f0769d3e.js",
+      "static/chunks/app/_not-found/page-ba35036e5bc06363.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a178e28c6f6381c9.js",
+      "static/chunks/4bd1b696-a8e650d2b69d8d6c.js",
+      "static/chunks/517-a2a66328b3cff895.js",
+      "static/chunks/main-app-e6dccc08f0769d3e.js",
+      "static/css/1d33fbc0d9ae589f.css",
+      "static/css/7ebb3cd0303b4f84.css",
+      "static/chunks/app/layout-cf37578232ced31e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-a178e28c6f6381c9.js",
+      "static/chunks/4bd1b696-a8e650d2b69d8d6c.js",
+      "static/chunks/517-a2a66328b3cff895.js",
+      "static/chunks/main-app-e6dccc08f0769d3e.js",
+      "static/css/def727678f329c27.css",
+      "static/css/cd2bfc99a8caf376.css",
+      "static/css/d3df112486f97f47.css",
+      "static/css/280224e39310ecca.css",
+      "static/css/8419bf7e20c871f2.css",
+      "static/chunks/4bcf67bb-4a467828bef0b29e.js",
+      "static/chunks/4e7269f9-03efed2f0d38e8c5.js",
+      "static/chunks/853-28bbf4e8c67cb234.js",
+      "static/chunks/204-d4c8029ac5d58e2c.js",
+      "static/chunks/app/page-c4ee42219c0e0b88.js"
+    ],
+    "/[...trivbuilderPath]/page": [
+      "static/chunks/webpack-a178e28c6f6381c9.js",
+      "static/chunks/4bd1b696-a8e650d2b69d8d6c.js",
+      "static/chunks/517-a2a66328b3cff895.js",
+      "static/chunks/main-app-e6dccc08f0769d3e.js",
+      "static/css/def727678f329c27.css",
+      "static/css/cd2bfc99a8caf376.css",
+      "static/css/d3df112486f97f47.css",
+      "static/css/280224e39310ecca.css",
+      "static/css/8419bf7e20c871f2.css",
+      "static/chunks/4bcf67bb-4a467828bef0b29e.js",
+      "static/chunks/4e7269f9-03efed2f0d38e8c5.js",
+      "static/chunks/853-28bbf4e8c67cb234.js",
+      "static/chunks/204-d4c8029ac5d58e2c.js",
+      "static/chunks/app/[...trivbuilderPath]/page-dee8be471cbc30da.js"
+    ]
+  }
+}
